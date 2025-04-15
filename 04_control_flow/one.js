@@ -35,8 +35,7 @@ if (balance < 500) {
     
 } else {
 //     console.log("less than 1200");
-
-// }
+}
 
 const userLoggedIn = true
 const debitCard = true
